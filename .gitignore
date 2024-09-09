@@ -1,0 +1,9 @@
+Include
+Lib
+Scripts
+WebDriverManager
+log.html
+output.xml
+pyvenv.cfg
+report.html
+selenium-screenshot*
